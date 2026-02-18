@@ -1,23 +1,22 @@
 # 👋 Hi, I'm Mauricio Hunau
 
-💻 Full Stack Developer from Argentina 🇦🇷
-🚀 Building scalable web applications & real-world products
-📍 Currently working at **TwinFarms** & **Multitravel**
+🚀 Full Stack Developer | Building scalable products & real-world applications
+🌍 Based in Argentina — Open to global opportunities
 
 ---
 
 ## 🧠 About Me
 
-I'm a full stack developer focused on building performant and scalable applications.
-I enjoy working across the entire stack — from crafting UI/UX experiences to designing backend architectures.
+Full stack developer with a strong focus on frontend and product development.
+I specialize in building scalable, high-performance applications using modern technologies.
 
-I’ve worked on:
+Currently working on:
 
-* 🌱 **Geospatial platforms** using Google Earth Engine
-* ✈️ **Travel e-commerce systems** with complex booking flows
-* 📊 Personal finance apps & side projects
+* 🌱 Geospatial platforms using satellite data
+* ✈️ Travel e-commerce systems with complex booking flows
+* 📱 Mobile & personal finance applications
 
-Always learning, always building.
+I care about clean architecture, performance and great user experience.
 
 ---
 
@@ -32,14 +31,14 @@ Always learning, always building.
 **Backend**
 
 * Node.js / NestJS / Express
-* PostgreSQL / MySQL
-* TypeORM / Prisma
+* PostgreSQL / MySQL / SQL Server
+* TypeORM / Prisma / Strapi
 
-**Tools & Cloud**
+**Cloud & Tools**
 
-* Docker / AWS / Google Cloud
-* Vercel / GitHub Actions
-* REST / GraphQL APIs
+* Google Cloud Platform (GCP)
+* AWS / Docker
+* Git / Figma / CI-CD
 
 ---
 
@@ -47,32 +46,44 @@ Always learning, always building.
 
 ### 🚜 TwinFarms — Full Stack Developer
 
-* Building a geospatial analysis platform using satellite data
-* Integrating Google Earth Engine for agricultural insights
-* Working with Next.js, Strapi, PostgreSQL & GCP
+* Built and maintained a geospatial analysis platform
+* Integrated Google Earth Engine for satellite data processing
+* Developed mapping and visualization features
+* Stack: Next.js, Strapi, PostgreSQL, GCP
 
-### ✈️ Multitravel — Frontend Developer
+### ✈️ Multitravel — Front-End Developer
 
-* Developing and maintaining a travel e-commerce platform
-* Implementing booking flows, payments & UI improvements
-* Working with Next.js, Node.js, MySQL
+* Developed a travel e-commerce platform
+* Implemented booking flows, UI and performance improvements
+* Collaborated on backend with NestJS & MySQL
 
----
+### 🏢 Sistemas Lenox — Full Stack Developer
 
-## 🚧 Currently Working On
+* Built a PWA for employee management & document workflows
+* Worked on .NET MVC systems for enterprise data
+* Developed internal tools and UI systems
 
-* 📱 **FinTrack** — Personal finance app
-* 🧠 Improving system design & scalability
-* 🌍 Exploring geospatial data & AI integration
+### 📱 OnceTech — Freelance
 
----
-
-## 📫 Contact Me
-
-* 💼 LinkedIn: (your link here)
-* 🌐 Portfolio: (your portfolio link)
-* 📧 Email: (your email)
+* Built a mobile e-commerce app (React Native + Node.js)
+* Designed UI/UX and deployed to mobile platforms
 
 ---
 
-⭐ *"Always building, always improving."*
+## 🚧 Currently Building
+
+* 💸 **FinTrack** — Personal finance app
+* 🌍 Advanced geospatial data tools
+* ⚡ Improving system design & scalability
+
+---
+
+## 📫 Contact
+
+* 💼 LinkedIn: https://linkedin.com/in/mauriciohunau
+* 🌐 Portfolio: (add your link)
+* 📧 [maurih@live.com](mailto:maurih@live.com)
+
+---
+
+⭐ *Focused on building real products, not just code.*
