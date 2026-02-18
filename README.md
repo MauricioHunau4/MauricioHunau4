@@ -1,5 +1,3 @@
-![IMG-20190722-WA0047 (2)](https://user-images.githubusercontent.com/69403501/166068154-b3859536-be68-4e53-8144-09d37c097f81.jpg)
-
 # 👋 Hi, I'm Mauricio Hunau
 
 💻 Full Stack Developer from Argentina 🇦🇷
