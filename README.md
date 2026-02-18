@@ -1,12 +1,80 @@
-### Hi there 👋
-
 ![IMG-20190722-WA0047 (2)](https://user-images.githubusercontent.com/69403501/166068154-b3859536-be68-4e53-8144-09d37c097f81.jpg)
 
-Born on 04/10/1999, Argentina. I'm a Full Stack Developer boy doing a autobiography through my life.
-I was born on October 4, 1999, in Buenos Aires, Argentina. The second of three, the middle child with middle child problems, I started kinder garden at the age of 3 in Pau pau, then my family changed me to a bilingual italian school named Scuola Edmondo de Amicis where I stayed there for seven years learning italian and a little bit of english. Then when I turned 13 years old I decided to go to the highschool Colegio Gonzales Pecotche where 5 years later I will finish the school with a grade point average of 8 and a certificate in english granted by the Cambridge University. 
-With my mind in University I started studiyng medicine in Universidad de Buenos Aires where i will last 2 years, before I changed my future to start studiyng
-software engineering. But that also was not I was looking forware, then i met Web development where I stated studying HTML and CSS on my own, but that wasn't enough and started learning JavaScript with the oficial documentation. Then React, Bootstrap, MySQL and more.
-Now I'm doing solo projects practising what I learn, you can check them out here: [Portfolio](https://mauriciohunau.vercel.app/)
+# 👋 Hi, I'm Mauricio Hunau
 
-I want to keep learning new things, new technologies, start working on what I love. 
-Thanks for reading, Mauricio Hunau.
+💻 Full Stack Developer from Argentina 🇦🇷
+🚀 Building scalable web applications & real-world products
+📍 Currently working at **TwinFarms** & **Multitravel**
+
+---
+
+## 🧠 About Me
+
+I'm a full stack developer focused on building performant and scalable applications.
+I enjoy working across the entire stack — from crafting UI/UX experiences to designing backend architectures.
+
+I’ve worked on:
+
+* 🌱 **Geospatial platforms** using Google Earth Engine
+* ✈️ **Travel e-commerce systems** with complex booking flows
+* 📊 Personal finance apps & side projects
+
+Always learning, always building.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* React / Next.js (13 - 15)
+* TailwindCSS / ShadCN / HeroUI
+* React Native (Expo)
+
+**Backend**
+
+* Node.js / NestJS / Express
+* PostgreSQL / MySQL
+* TypeORM / Prisma
+
+**Tools & Cloud**
+
+* Docker / AWS / Google Cloud
+* Vercel / GitHub Actions
+* REST / GraphQL APIs
+
+---
+
+## 💼 Experience
+
+### 🚜 TwinFarms — Full Stack Developer
+
+* Building a geospatial analysis platform using satellite data
+* Integrating Google Earth Engine for agricultural insights
+* Working with Next.js, Strapi, PostgreSQL & GCP
+
+### ✈️ Multitravel — Frontend Developer
+
+* Developing and maintaining a travel e-commerce platform
+* Implementing booking flows, payments & UI improvements
+* Working with Next.js, Node.js, MySQL
+
+---
+
+## 🚧 Currently Working On
+
+* 📱 **FinTrack** — Personal finance app
+* 🧠 Improving system design & scalability
+* 🌍 Exploring geospatial data & AI integration
+
+---
+
+## 📫 Contact Me
+
+* 💼 LinkedIn: (your link here)
+* 🌐 Portfolio: (your portfolio link)
+* 📧 Email: (your email)
+
+---
+
+⭐ *"Always building, always improving."*
